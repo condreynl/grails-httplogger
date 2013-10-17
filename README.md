@@ -81,7 +81,7 @@ loggableRequestMatcher(MethodBasedRequestMatcher) {
 }
 ```
 
-You might want your custom implementations to be written is Java, for performance and type-safety reasons (BTW: most of the plugin is Java):
+You might want your custom implementations to be written in Java, for performance and type-safety reasons (BTW: most of the plugin is Java):
 
 ```java
 public class MethodBasedRequestMatcher implements RequestMatcher {
