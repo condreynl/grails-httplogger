@@ -2,6 +2,8 @@
 
 Grails plugin for logging HTTP traffic.
 
+### This project is abandoned. It is reported to be broken since Grails 2.3.4.
+
 It logs:
 
 * request information (url, headers, cookies, method, body),
